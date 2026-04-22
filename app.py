@@ -334,7 +334,7 @@ div[data-testid="stImage"] img { border-radius: 14px; }
 # ─────────────────────────────────────────────
 st.markdown("""
 <div class="hero-wrap">
-  <div class="hero-badge"><span class="pulse-dot"></span>&nbsp;Deep learning diagnostics</div>
+  <div class="hero-badge"><span class="pulse-dot"></span>&nbsp;PashuSetu</div>
   <div class="hero-title">Cattle Disease<br><em>Detection System</em></div>
   <p class="hero-sub">
     An AI-powered visual diagnostic tool that identifies Foot-and-Mouth Disease and
