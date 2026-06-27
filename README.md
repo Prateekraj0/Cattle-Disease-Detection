@@ -189,10 +189,7 @@ Prediction
 ├── model.onnx
 ├── requirements.txt
 ├── README.md
-│
-├── assets/
-│
-└── sample_images/
+
 ```
 
 ---
@@ -222,31 +219,6 @@ Run the application
 ```bash
 streamlit run app.py
 ```
-
----
-
-# 💻 How to Use
-
-### Step 1
-
-Launch the Streamlit application.
-
-### Step 2
-
-Upload a clear cattle image.
-
-### Step 3
-
-Click **Run AI Analysis**.
-
-### Step 4
-
-View:
-
-- Disease Prediction
-- Confidence Score
-- Disease Probabilities
-- AI Recommendation
 
 ---
 
@@ -300,26 +272,6 @@ along with
 - 🐄 Breed Detection Integration
 - 📍 GPS-based Veterinary Recommendation
 - 🤖 AI Chatbot for Farmers
-
----
-
-# 📸 Screenshots
-
-> Add screenshots of your application here.
-
-Example:
-
-```
-Home Page
-
-Prediction Page
-
-Result Screen
-
-Confidence Scores
-
-Recommendation Panel
-```
 
 ---
 
